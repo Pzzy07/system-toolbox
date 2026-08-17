@@ -14,4 +14,4 @@ A Windows desktop system cleanup and management tool.
 
 ## Download
 
-Go to [Releases](https://giteecom/pzzy77/system-toolbox/releases) to download the latest version.
+Go to [Releases](https://gitee.com/pzzy77/system-toolbox/releases) to download the latest version.
