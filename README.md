@@ -14,4 +14,4 @@
 
 ## 下载
 
-前往 [发行版](https://giteecom/pzzy77/system-toolbox/releases) 下载最新版。
+前往 [发行版](https://gitee.com/pzzy77/system-toolbox/releases) 下载最新版。
