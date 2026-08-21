@@ -1,17 +1,26 @@
-# System Toolbox
+   # System Toolbox
 
-A Windows desktop system cleanup and management tool.
+A Windows desktop system cleanup and management tool. Portable, no installation required.
 
 ## Features
 
-- App Management (view/uninstall applications)
-- Disk Cleanup (temp files/registry leftovers)
-- Calendar & Weather (auto IP geolocation)
-- System Monitor (real-time CPU/RAM/disk/network)
-- Power mode switcher
-- System tray + customizable close behavior
-- Built-in update checker
+- App Manager (view/uninstall)
+- Disk Cleanup (temp files, registry)
+- Calendar & Weather (auto IP location)
+- System Monitor (CPU, RAM, Disk, Network)
+- Power Mode Switch
+- System Tray Support
+- Built-in Update Checker
 
 ## Download
 
-Go to [Releases](https://gitee.com/pzzy77/system-toolbox/releases) to download the latest version.
+[Download latest release](https://gitee.com/pzzy77/system-toolbox/releases)
+
+## Usage
+
+- Portable version, extract and run
+- **Upgrade**: Replace the old exe with the new version in the same folder. **Do not delete the entire folder**, the data folder will keep your configuration.
+
+## Developer
+
+Pzzy20
