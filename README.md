@@ -16,7 +16,7 @@
 
 ## 下载
 
-[前往发行版下载最新版](https://gitee.com/pzzy77/system-toolbox/releases
+[前往发行版下载最新版](https://gitee.com/pzzy77/system-toolbox/releases)
 
 ## 使用说明
 
@@ -30,4 +30,4 @@ Pzzy20
 
 ## 更新日志
 
-[查看完整更新日志](https://gitee.com/pzzy77/system-toolbox/releases
+[查看完整更新日志](https://gitee.com/pzzy77/system-toolbox/releases)
